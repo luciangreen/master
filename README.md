@@ -14,5 +14,9 @@ Finds formulae from database data
 https://github.com/luciangreen/databaseformulafinder
 
 Grammar Interpreter
-Parses grammar withOUT DCG.
+Parses grammar without a DCG.
 https://github.com/luciangreen/grammarinterpreter
+
+Mind Reader
+Contains Prolog programs that can be used by an individual to read their mind using meditation
+https://github.com/luciangreen/mindreader

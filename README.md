@@ -3,6 +3,26 @@ Master Repository
 
 A list of my repositories in SWI-Prolog.
 
+TextToAlg
+https://github.com/luciangreen/texttoalg
+Allows manual entry of algorithms corresponding to words in sentences, and automatic breasoning out of algorithm traces given texts of words.
+
+LuciansHandBitMap-Font
+https://github.com/luciangreen/LuciansHandBitMap-Font
+Renders the characters from LuciansHandBitMap Font using a state machine.
+
+Split-on-Phrases
+https://github.com/luciangreen/Split-on-Phrases
+Splits text files into groups of files.
+
+List-Prolog-to-Prolog-Converter
+https://github.com/luciangreen/List-Prolog-to-Prolog-Converter
+Converts List Prolog code to Prolog code.
+
+Program-Finder-from-Data-
+https://github.com/luciangreen/Program-Finder-from-Data-
+Finds recursive algorithms from the structure of data.
+
 Mind Reader
 https://github.com/luciangreen/mindreader
 Contains Prolog programs that can be used by an individual to read their mind using meditation

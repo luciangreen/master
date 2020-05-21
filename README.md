@@ -1,7 +1,7 @@
 # master
 Master Repository
 
-<a href=https://github.com/luciangreen">A list of my repositories in SWI-Prolog.</a>
+<a href="https://github.com/luciangreen">A list of my repositories in SWI-Prolog.</a>
 
 # Installation from List Prolog Package Manager (LPPM)
 
